@@ -13,7 +13,7 @@ If you like my code, please subscribe to my Github channel and follow me on my o
 
 ---
 
-![Pyqt5-Leaflet](https://github.com/gerfra/Pyqt5-Leaflet/image.jpg?raw=true)
+![Pyqt5-Leaflet](https://github.com/gerfra/Pyqt5-Leaflet/blob/main/image.png)
 
 ---
 
